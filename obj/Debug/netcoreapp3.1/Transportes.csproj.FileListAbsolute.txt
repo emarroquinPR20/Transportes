@@ -1,0 +1,11 @@
+C:\lab\Transportes\bin\Debug\netcoreapp3.1\Transportes.exe
+C:\lab\Transportes\bin\Debug\netcoreapp3.1\Transportes.deps.json
+C:\lab\Transportes\bin\Debug\netcoreapp3.1\Transportes.runtimeconfig.json
+C:\lab\Transportes\bin\Debug\netcoreapp3.1\Transportes.runtimeconfig.dev.json
+C:\lab\Transportes\bin\Debug\netcoreapp3.1\Transportes.dll
+C:\lab\Transportes\bin\Debug\netcoreapp3.1\Transportes.pdb
+C:\lab\Transportes\obj\Debug\netcoreapp3.1\Transportes.csprojAssemblyReference.cache
+C:\lab\Transportes\obj\Debug\netcoreapp3.1\Transportes.AssemblyInfoInputs.cache
+C:\lab\Transportes\obj\Debug\netcoreapp3.1\Transportes.AssemblyInfo.cs
+C:\lab\Transportes\obj\Debug\netcoreapp3.1\Transportes.dll
+C:\lab\Transportes\obj\Debug\netcoreapp3.1\Transportes.pdb
